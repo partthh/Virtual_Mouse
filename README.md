@@ -12,7 +12,7 @@
    ![Screenshot 1](Right_click.PNG)
 
 4.) For Screenshot gesture:
-   ![Screenshot 1](Screenshot_click.PNG)
+   ![Screenshot 1](Screenshot.PNG)
 
 ## Introduction
 The Virtual Mouse Using Hand Gesture Recognition project leverages computer vision and machine learning to simulate mouse functionality through hand gestures. This project aims to create an intuitive and contactless way to control a computer, making it especially useful in scenarios where touch is inconvenient or unsanitary.
