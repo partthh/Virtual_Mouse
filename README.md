@@ -56,5 +56,3 @@ You can customize the gestures by modifying the `gesture_config.py` file. This f
 - The OpenCV community for continuous support and updates.
 - The PyAutoGUI developers for simplifying mouse and keyboard automation.
 
-## Contact
-For any queries or support, please contact Abhishek at [abhishek992@gmail.com](mailto:abhishek992@gmail.com).
