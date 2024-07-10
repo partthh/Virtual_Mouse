@@ -1,5 +1,10 @@
 # Virtual Mouse Using Hand Gesture Recognition
 
+## Screenshots
+
+1.) To move mouse pointer using gesture:
+    ![Alt text](Move_mouse_pointer.png?raw=true "Optional Title")
+
 ## Introduction
 The Virtual Mouse Using Hand Gesture Recognition project leverages computer vision and machine learning to simulate mouse functionality through hand gestures. This project aims to create an intuitive and contactless way to control a computer, making it especially useful in scenarios where touch is inconvenient or unsanitary.
 
