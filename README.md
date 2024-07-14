@@ -1,8 +1,8 @@
 # Virtual Mouse Using Hand Gesture Recognition
 
-##Youtube Link: https://youtu.be/2AdYonoJp-M?si=XwPr-r31NNdqLjFO
+##Youtube Link: https://youtu.be/2AdYonoJp-M?si=XwPr-r31NNdqLjFO 
 
-## Screenshots
+## Screenshots 
 
 1.) To move mouse pointer using gesture:
    ![Screenshot 1](Move_mouse_pointer.PNG)
