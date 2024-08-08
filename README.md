@@ -1,6 +1,6 @@
 # Virtual Mouse Using Hand Gesture Recognition
 
-##Youtube Link: https://youtu.be/2AdYonoJp-M?si=XwPr-r31NNdqLjFO 
+## Youtube Link: https://youtu.be/2AdYonoJp-M?si=XwPr-r31NNdqLjFO 
 
 ## Screenshots 
 
